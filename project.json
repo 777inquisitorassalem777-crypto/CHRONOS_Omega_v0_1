@@ -1,0 +1,30 @@
+{
+  "name": "CHRONOS Omega",
+  "version": "0.3.0",
+  "status": "working-research-prototype",
+  "created": "2026-11-08",
+  "language": "ru",
+  "python": ">=3.10",
+  "dependencies": [],
+  "principles": [
+    "evidence_before_claims",
+    "human_dignity",
+    "nonviolence",
+    "religious_neutrality",
+    "human_oversight",
+    "provenance"
+  ],
+  "last_research_update": "2026-11-08",
+  "report": "reports/2026-11-08_v0.3.0_implementation.md",
+  "modules": [
+    "KOZYREV_LAB",
+    "TIME_PHYSICS",
+    "ARCANA_ARCHIVE",
+    "RUSSIA_HISTORIA",
+    "AETERNA_MEMORY",
+    "source_ingestion_sqlite",
+    "full_text_search",
+    "historical_time_series",
+    "kz01_preregistration"
+  ]
+}

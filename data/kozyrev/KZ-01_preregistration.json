@@ -1,0 +1,16 @@
+{
+  "protocol_id": "KZ-01", "version": "1.0",
+  "hypothesis": "Rotation of a gyroscope changes apparent-weight readings beyond pre-specified instrument and environmental uncertainty.",
+  "null_hypothesis": "Mean apparent-weight difference between rotating and matched control conditions is zero within the pre-specified equivalence margin.",
+  "primary_outcome": "Within-block difference in mean balance reading (mg), rotating condition minus motor-off control.",
+  "conditions": ["motor_off", "rotor_spinning", "motor_only_rotor_locked", "static_mass"],
+  "randomization": "Computer-generated balanced block order; allocation concealed from the analyst.",
+  "blinding": "Analyst receives coded condition labels until data cleaning and primary analysis are frozen.",
+  "sample_size": 40, "blocks_per_condition": 10, "readings_per_block": 60,
+  "primary_test": "Two-sided paired/block-aware model; report effect in mg, 95% CI, raw data, and standardized effect.",
+  "alpha": 0.05,
+  "exclusion_rules": ["Exclude only documented sensor failure or pre-defined environmental excursions.", "Never exclude based on effect direction or statistical significance."],
+  "controls": ["thermal", "electromagnetic", "vibration", "airflow", "electrostatic", "tilt", "instrument_drift", "acoustic", "operator_expectancy"],
+  "safety": "Guard rotating parts; secure rotor; remote operation; emergency stop; no human exposure to hazardous speeds.",
+  "status": "DRAFT_NOT_PREREGISTERED"
+}

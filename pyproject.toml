@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "chronos-omega"
+version = "0.3.0"
+description = "Evidence-first research system for CHRONOS Omega"
+requires-python = ">=3.10"
+dependencies = []
+[project.optional-dependencies]
+pdf = ["pypdf>=4"]
+
+[project.scripts]
+chronos = "chronos.cli:main"
+[tool.setuptools.packages.find]
+where = ["src"]

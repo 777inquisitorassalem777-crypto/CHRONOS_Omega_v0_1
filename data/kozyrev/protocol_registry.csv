@@ -1,0 +1,3 @@
+protocol_id,question,primary_outcome,conditions,controls,preregistration_required,status
+KZ-01,Does a rotating gyroscope alter measured apparent weight?,mass_reading_delta_mg,"off;rotating;motor-only;static-mass","thermal;EM;vibration;airflow;electrostatic;tilt;drift",yes,design_only
+KZ-02,Are reported effects robust across independent apparatus and labs?,effect_size_and_uncertainty,"lab_A;lab_B;lab_C","blinded_analysis;shared_protocol;calibration;negative_results",yes,not_started

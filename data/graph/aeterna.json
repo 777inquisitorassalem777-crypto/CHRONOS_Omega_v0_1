@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    {"id":"person_kozyrev","kind":"Person","label":"Nikolai A. Kozyrev","evidence_class":"historical","source_ids":["S_KOZYREV_PRIMARY"],"properties":{"field":"astrophysics"}},
+    {"id":"text_causal_mechanics","kind":"Text","label":"Causal or Asymmetric Mechanics (1958)","evidence_class":"historical","source_ids":["S_KOZYREV_1958"],"properties":{"year":1958}},
+    {"id":"concept_time_asymmetry","kind":"Concept","label":"Time asymmetry","evidence_class":"interpretive","source_ids":[],"properties":{}},
+    {"id":"civilization_russia","kind":"Civilization","label":"Russia","evidence_class":"historical","source_ids":["S_RUSSIA_ARCHIVE"],"properties":{}}
+  ],
+  "edges": [
+    {"source":"person_kozyrev","target":"text_causal_mechanics","relation":"authored","evidence_class":"historical","source_ids":["S_KOZYREV_1958"],"note":"Bibliographic attribution; verify edition metadata."},
+    {"source":"text_causal_mechanics","target":"concept_time_asymmetry","relation":"discusses","evidence_class":"interpretive","source_ids":[],"note":"Conceptual link, not proof of the proposed mechanism."},
+    {"source":"person_kozyrev","target":"civilization_russia","relation":"worked_in_historical_context","evidence_class":"historical","source_ids":["S_RUSSIA_ARCHIVE"],"note":"Contextual relation; expand with archival sources."}
+  ]
+}

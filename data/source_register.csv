@@ -1,0 +1,39 @@
+source_id,title,publisher_or_author,date,source_type,url,notes
+S001,The Russian Federation: Country Focus,EUAA,2026-01,government_research,https://www.euaa.europa.eu/russian-federation-country-focus/1-political-system-and-governance,Institutional overview
+S002,BTI 2026 Russia Country Report,Bertelsmann Stiftung,2026,comparative_report,https://bti-project.org/en/reports/country-report/RUS,Governance assessment
+S003,Russia: Freedom in the World 2026,Freedom House,2026,comparative_report,https://freedomhouse.org/country/russia/freedom-world/2026,Methodology-specific rights assessment
+S004,Russia September 2026,International IDEA,2026-09,democracy_tracker,https://www.idea.int/democracytracker/report/russian-federation/september-2026,Official Duma result and election environment
+S005,Russia’s 2026 State Duma election,FIIA,2026-09-23,policy_analysis,https://fiia.fi/en/publication/russias-2026-state-duma-election,Analysis of election environment
+S006,Куранты на Спасской башне Кремля остановлены на профилактику,Interfax,2026-11-06,news,https://www.interfax.ru/russia/1127299,Maintenance and restart date
+S007,Куранты Спасской башни остановят на 10 дней,Vedomosti,2026-11-03,news,https://www.vedomosti.ru/society/news/2026/11/03/1242284-kuranti-spasskoi-bashni,FSO announcement
+S008,About survivability of myths surrounding Causal Mechanics,Nikolenko,2016,critical_article,https://www.physics.socionic.info/index.php/physics/article/view/233,Critical analysis; also seek primary sources
+S009,Theosophy,Routledge Encyclopedia of Philosophy,1998/2026,encyclopedia,https://www.rep.routledge.com/articles/thematic/theosophy/v-1,Academic overview
+S010,Helena Blavatsky and the Theosophical Society,Oxford Academic / Goodrick-Clarke,2008,academic_chapter,https://academic.oup.com/book/9553/chapter-abstract/156563959,Historical scholarship
+S011,Religious Frames: Falun Gong in China,Oxford Academic,2018,academic_chapter,https://academic.oup.com/edited-volume/62239/chapter-abstract/550800185,Historical and political context
+S012,Reshaping the Quantum Arrow of Time,Garcia-Pintos; Gorshkov; Liu / Physical Review X,2026-02-19,peer_reviewed_article,https://doi.org/10.1103/l18s-9vmh,Quantum arrow of time; theoretical
+S013,Multidimensional arrow of time,Sergey G. Rubin / European Physical Journal C,2026-05-28,peer_reviewed_article,https://doi.org/10.1140/epjc/s10052-026-15852-4,Higher-dimensional theoretical model; not consensus
+S014,Decoding time from space: complication clock review,Han; Steinborn; Cao / Psychonomic Bulletin & Review,2026-07-07,peer_reviewed_review,https://doi.org/10.3758/s13423-026-02951-2,Temporal perception and agency
+S015,Self-report measures of subjective time,Bonifacio; Cabral-Carvalho; Cravo / Psychonomic Bulletin & Review,2026-08-25,peer_reviewed_review,https://doi.org/10.3758/s13423-026-02987-4,30 measures; construct validity
+S016,Time in mind: multidisciplinary review,Pendleton; Clayton / Frontiers in Cognition,2026-01-21,peer_reviewed_review,https://doi.org/10.3389/fcogn.2025.1688754,"Temporal cognition, memory, culture"
+S017,Pythagoras or Charlatan: Mystery-making in Gurdjieff's 1924 Demonstrations,Shelby Lynn King / UC Santa Barbara,2017-09,academic_thesis,https://escholarship.org/uc/item/7xk105q5,Historical study of Gurdjieff's public demonstrations
+S018,Image and Motif of Time in Children's Literature of the Early 1940-ies,Kudryashova; Salenko / TSPU Bulletin,2019,peer_reviewed_article,https://doi.org/10.23951/1609-624X-2019-6-56-62,"Schwartz, Gaidar, Marshak"
+S019,About survivability of the myths surrounding Causal Mechanics,Oleksandr Nikolenko,2016,critical_article,https://physics.socionic.info/index.php/physics/article/view/233,Critical review of Kozyrev causal mechanics
+S020,Endgame: The State of the Russian Economy,Kiel Institute / Kiel Report 9,2026-06,research_report,https://www.kielinstitut.de/publications/endgame-the-state-of-the-russian-economy-19855/,Collective assessment; scenarios not certainties
+S021,The Coming Crisis in Russia's Political Economy,Nigel Gould-Davies / IISS,2026-05-18,research_report,https://www.iiss.org/research-paper/2026/05/the-coming-crisis-in-russias-political-economy/,Industrial and labour constraints
+S022,Possibility of Experimental Study of the Properties of Time,N.A. Kozyrev / JPRS translation,1967-1968,primary_text,https://www.spirit-science.fr/ArchivesScientifiques/1967KOZYREVzj.pdf,Translated primary text; verify against Russian edition
+S023,Causal or Nonsymmetric Mechanics in a Linear Approximation,N.A. Kozyrev,1958,primary_text_bibliographic_record,https://www.aetherforce.energy/80143-2/,Bibliographic lead; seek 1991 Selected Works and original pamphlet
+S024,About survivability of myths surrounding Causal Mechanics,Oleksandr Nikolenko,2016,critical_article,https://physics.socionic.info/index.php/physics/article/view/233,Critical assessment; inspect full text
+S025,Reshaping the Quantum Arrow of Time,Garcia-Pintos; Gorshkov; Liu / Physical Review X,2026-02-19,peer_reviewed_article,https://journals.aps.org/prx/abstract/10.1103/l18s-9vmh,Quantum monitoring and feedback control
+S026,Bridging quantum mechanics and thermodynamics: Irreversible correlations as the arrow of time,Annals of Physics,2026-02,peer_reviewed_article,https://www.sciencedirect.com/science/article/pii/S0003491625004002,Theoretical no-go result on universal correlation removal
+S027,Multidimensional arrow of time,Sergey G. Rubin / EPJC,2026,peer_reviewed_article,https://doi.org/10.1140/epjc/s10052-026-15852-4,Theoretical proposal; not consensus
+S028,The Secret Doctrine original 1888 scans,Theosophical Society Pasadena,1888,primary_facsimile,https://www.theosociety.org/pasadena/sd-scan/sdscan-hp.htm,Scanned reproduction of first edition
+S029,Blavatsky writings online bibliography,Blavatsky Archives,2026,primary_text_index,https://www.blavatskyarchives.com/blavatskyonline.htm,Index of digitized editions; verify host provenance
+S030,Primary Texts,Gurdjieff Work Library,1950 onward,primary_text_index,https://gurdjieff.work/library/primary-texts/,Includes 1950 Beelzebub edition and other writings; copyright caution
+S031,Traité élémentaire de science occulte,Papus / Georges Carré,1888,primary_text_catalog,https://books.google.com/books?id=Tko8AQAAMAAJ,Digitized from Cornell University
+S032,Liber AL vel Legis facsimile and transcription,Aleister Crowley / Hermetic Library,1904,primary_facsimile,https://hermetic.com/legis/index,Manuscript facsimile and transcription
+S033,Correspondance particulière du comte de Saint-Germain,BnF,1789,primary_text_catalog,https://catalogue.bnf.fr/ark:/12148/cb31281310w,Two-volume bibliographic record; distinguish identity
+S034,Mémoires de M. le comte de St-Germain,ETH-Bibliothek,1779,primary_text,https://doi.org/10.3931/e-rara-29732,Digitized public-domain copy; identity/attribution caution
+S035,Electronic Repository of Russian Historical Statistics,RiStat,2020,statistical_repository,https://ristat.org/catalog,Regional cross-sections and source metadata
+S036,About the data,RiStat,2020,methodology,https://ristat.org/documentation/about-data,Documentation of source origins and biases
+S037,Maddison Project Database 2023,University of Groningen,2024,dataset,https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2023,Long-run comparative GDP/income estimates to 2022
+S038,Russian state and economy,Presidential Library,2026,digital_archive_collection,https://www.prlib.ru/collection_russian_state_and_economy,850+ digitized documents;  chronological collection

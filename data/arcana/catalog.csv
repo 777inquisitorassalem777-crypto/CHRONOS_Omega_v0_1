@@ -1,0 +1,11 @@
+work_id,author,title,publication_or_manuscript_date,edition_or_variant,language,repository_url,record_type,rights_or_access_note,verification_status
+A001,Comte de Saint-Germain,Correspondance particulière du comte de Saint-Germain,1789,2 volumes,French,https://catalogue.bnf.fr/ark:/12148/cb31281310w,catalog_record,BnF bibliographic record,metadata_verified
+A002,Claude-Louis de Saint-Germain,Mémoires de M. le comte de St-Germain,1779,edition digitized by ETH-Bibliothek,French,https://doi.org/10.3931/e-rara-29732,primary_text,Public Domain Mark,metadata_verified_identity_caution
+A003,H. P. Blavatsky,The Secret Doctrine,1888,first edition scanned,English,https://www.theosociety.org/pasadena/sd-scan/sdscan-hp.htm,facsimile,Scanned original edition,metadata_verified
+A004,H. P. Blavatsky,Isis Unveiled,1877,first edition listing,English,https://www.blavatskyarchives.com/blavatskyonline.htm,primary_text_index,Digitized text index,metadata_verified
+A005,H. P. Blavatsky,The Key to Theosophy,1889,first edition listing,English,https://www.blavatskyarchives.com/blavatskyonline.htm,primary_text_index,Edition distinctions required,metadata_verified
+A006,H. P. Blavatsky,The Voice of the Silence,1889,first edition listing,English,https://www.blavatskyarchives.com/blavatskyonline.htm,primary_text_index,Edition distinctions required,metadata_verified
+A007,G. I. Gurdjieff,Beelzebub's Tales to His Grandson,1950,first English edition,English,https://gurdjieff.work/library/primary-texts/,primary_text_index,Copyright notice on host; do not redistribute,metadata_verified
+A008,G. I. Gurdjieff,Meetings with Remarkable Men,1960,edition listing,English,https://gurdjieff.work/library/primary-texts/,primary_text_index,Check edition and rights,metadata_verified
+A009,Papus,Traité élémentaire de science occulte,1888,Georges Carré,French,https://books.google.com/books?id=Tko8AQAAMAAJ,primary_text_catalog,Digitized from Cornell University,metadata_verified
+A010,Aleister Crowley,Liber AL vel Legis / The Book of the Law,1904,manuscript facsimile and transcription,English,https://hermetic.com/legis/index,facsimile_and_transcription,Check reproduction rights,metadata_verified
